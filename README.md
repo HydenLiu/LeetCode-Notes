@@ -16,4 +16,4 @@
 
 ### 🚀🚀🚀 冲冲冲
 
-![my_love](.\images\my_love.jpg)
+![my_love.jpg](https://github.com/sunupdong/LeetCode-Notes/blob/master/images/my_love.jpg?raw=true)
